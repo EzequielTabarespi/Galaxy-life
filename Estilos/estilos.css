@@ -1,0 +1,109 @@
+nav h1 {
+	font-family: 'Handlee', cursive;
+	font-size: 70px;
+	margin-left: 350px;
+	margin-top: 50px;
+
+}
+
+body{
+     
+	background-image: url(https://i.pinimg.com/originals/71/46/a1/7146a1290f6776eed52a1fdb084767be.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+ h2{
+ 	font-family: 'Sorts Mill Goudy', serif;
+ 	text-decoration: underline black;
+ 	position: static;
+	margin-left: 10px;
+	margin-top: 120px;
+	font-size: 30px;
+	border-top: solid black;
+	border-right: solid black;
+	border-left: solid black;
+	background-color: white;
+	width: 550px;
+}
+
+ aside p {
+ 	font-family: 'Sorts Mill Goudy', serif;
+      font-size: 25px;
+      position: static;
+      height: 200px;
+      width: 550px;
+      background-color: white;
+      margin-left: 10px;
+      border-left: solid black;
+      border-right: solid black;
+      border-bottom: solid black;
+
+}
+
+.pepe {
+	float: left;
+}
+
+.gene{
+
+	padding: 5px;
+    font-family: 'Handlee', cursive;
+	padding-left: 39px;
+	color: black;
+	width: 420px;
+	float: left;
+	text-decoration: none;
+	background-size: 70px;
+	background-color: green;
+	margin-left: 60px;
+}
+
+
+.capi{
+	padding: 5px;
+	font-family: 'Handlee', cursive;
+	color: black;
+	width: 420px;
+	float: left;
+	text-decoration: none;
+	background-color: #DF3900;
+	margin-left: 60px;
+
+}
+
+.miem{
+	padding: 5px;
+	font-family: 'Handlee', cursive;
+	color: black;
+	margin-top: 20px;
+	width: 420px;
+	float: left;
+	text-decoration: none;
+	background-color: #8D00DE;
+	margin-left: 60px;
+
+}
+
+.ds{
+	padding: 5px;
+	font-family: 'Handlee', cursive;
+	padding-left: 47px;
+	color: black;
+	margin-top: 20px;
+	width: 420px;
+	float: left;
+	text-decoration: none;
+	background-color: #005BDE;
+	margin-left: 60px;
+}
+
+
+.contenedor{
+	font-size: 70px;
+}
+
+ul {
+	list-style-type: none;
+}
